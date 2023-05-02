@@ -1,0 +1,25 @@
+.gallary{
+	margin: 15px 50px;
+}
+.gallary img{
+	transition: 1s;
+	padding: 45px;
+	width: 300px;
+}
+.gallary img:hover{
+	filter: grayscale(100%);
+	transform: scale(1.5);
+}
+body{        
+                  margin: 0;
+                  padding: 0;
+	background-color: #050140  ;
+	border: 20px solid #856805;
+	border-spacing: 0;
+
+}
+h1{
+	color: #856805;
+	padding: 10px;
+	text-align: center;
+}
